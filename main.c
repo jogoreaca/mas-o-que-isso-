@@ -1,5 +1,7 @@
 
+
 #include<stdio.h>
+#include "answer.h"
 #define EVER ;;
 void EternalLoop(void)
 {
@@ -12,6 +14,7 @@ int main (int argc, char** argv)
 {
 	if(argc<2)
 		EternalLoop();
+		
 	return 0;	
 
 }

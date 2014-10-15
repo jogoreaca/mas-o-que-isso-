@@ -1,0 +1,1 @@
+char* Answer(char* quote);
