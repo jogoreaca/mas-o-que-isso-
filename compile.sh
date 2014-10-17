@@ -1,2 +1,2 @@
-gcc -o masoqueeisso answer.c main.c
+gcc -Wall -o masoqueeisso answer.c main.c
 

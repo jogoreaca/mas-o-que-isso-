@@ -1,4 +1,4 @@
-
+#include <string.h>
 
 static int turn=0; //turn starts on zero
 
